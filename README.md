@@ -152,9 +152,6 @@ Developed an interactive dashboard to present the key marketing performance metr
 
 ![Marketing Campaign Analytics Dashboard](screenshots/marketing_campaign_dashboard.png)
 
-**Dashboard Files:**
-- [View Interactive Power BI Dashboard](powerbi/Marketing_Campaign_Analytics.pbix)
-- [View Dashboard PDF Report](reports/Marketing_Campaign_Dashboard.pdf)
 
 ### Conversion Distribution
 
@@ -281,7 +278,7 @@ marketing-campaign-conversion-analytics/
 │   └── Marketing_Campaign_Dashboard.pdf
 │
 ├── screenshots/
-│
+│  └── marketing_campaign_dashboard.png
 ├── README.md
 └── requirements.txt
 ```
