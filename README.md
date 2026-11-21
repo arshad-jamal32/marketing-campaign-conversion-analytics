@@ -146,6 +146,28 @@ Developed an interactive dashboard to present the key marketing performance metr
 - [Power BI Dashboard (PBIX)](powerbi/Marketing_Campaign_Analytics.pbix)
 - [Dashboard PDF](reports/Marketing_Campaign_Dashboard.pdf)
 
+## 📊 Project Visualizations
+
+### Power BI Dashboard
+
+![Marketing Campaign Analytics Dashboard](screenshots/marketing_campaign_dashboard.png)
+
+**Dashboard Files:**
+- [View Interactive Power BI Dashboard](powerbi/Marketing_Campaign_Analytics.pbix)
+- [View Dashboard PDF Report](reports/Marketing_Campaign_Dashboard.pdf)
+
+### Conversion Distribution
+
+![Conversion Distribution](reports/01_conversion_distribution.png)
+
+### Channel-wise Conversion Analysis
+
+![Channel Conversion Analysis](reports/02_channel_conversion.png)
+
+### Customer Engagement Analysis
+
+![Customer Engagement Analysis](reports/05_customer_engagement.png)
+
 ## Key Business Insights
 
 ### 1. Overall Campaign Performance
